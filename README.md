@@ -556,8 +556,4 @@ Need help? Reach out:
 
 **Built with ❤️ by the ExplainNet Team**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ExplainNet?style=social)](https://github.com/yourusername/ExplainNet)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ExplainNet?style=social)](https://github.com/yourusername/ExplainNet/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/ExplainNet?style=social)](https://github.com/yourusername/ExplainNet)
-
 </div>
